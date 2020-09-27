@@ -1,7 +1,7 @@
 # Loetkurs
 ![loet](https://github.com/frankyhub/png/blob/master/loet.png)
 
-Lötkurs für Anfänger 
+[Lötkurs](https://github.com/frankyhub/Loetkurs/blob/master/L%C3%B6tkurs%20V2.pdf) für Anfänger 
 
 - Sicherheitshinweise und Umgang mit dem Lötkolben
 
