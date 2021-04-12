@@ -15,3 +15,6 @@
 |    2 | Transostoreen BC337               |
 |    1 | 9V Batterieclip                   |
 |    1 | 9V Batterie                       |
+
+#### Schaltplan
+![image](https://github.com/frankyhub/Loetkurs/blob/master/L4-Robi-Ablink/L4-Robi-Ablink-Schaltplan.png)
