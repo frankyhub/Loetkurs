@@ -9,5 +9,7 @@
 
 - Sicherheitshinweise und Umgang mit dem Lötkolben
 
+- Lötübungen
+
 
 
