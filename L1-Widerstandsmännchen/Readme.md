@@ -13,4 +13,6 @@ Anleitung: Die Widerstände und Leuchtdioden dem Bild entsprechend verlöten. Al
 |    1 | LED Rot 3mm                   	   |
 |    15| Widerstände 127 Ohm	 	           | 
 |    1 | Diode 1N4148			                 | 
+|    1 | 9V Batterie-Clip	                 | 
+|    1 | 9V Batterie  		                 | 
 
