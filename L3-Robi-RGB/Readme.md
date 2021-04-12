@@ -1,4 +1,8 @@
 ### Robi RGB-LED
+
+[Anleitung](https://github.com/frankyhub/Loetkurs/blob/master/L3-Robi-RGB/Robi%20Platine%20best%C3%BCcken.pdf)
+
+
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L3-Robi-RGB/L3-Robi-RGB.png)
 
 #### Stückliste                                            
