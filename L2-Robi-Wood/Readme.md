@@ -1,4 +1,7 @@
 ### Robi-Wood
+Anleitung: Die Bauteile auf die gelaserte Sperrholdplatte bestücken, die Bauteilfüße nach dem Schaltplan umbiegen und verlöten.
+
+
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L2-Robi-Wood/Robi-Wood.png)
 
 #### Stückliste                                            
