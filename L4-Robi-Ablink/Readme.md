@@ -1,5 +1,8 @@
 ### Robi blink
 
+[Anleitung](https://github.com/frankyhub/Loetkurs/blob/master/L4-Robi-Ablink/Robi-Ablink%20Platine%20best%C3%BCcken.pdf)
+
+
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L4-Robi-Ablink/L4-Robi-Ablink.png)
 
 
