@@ -16,3 +16,7 @@ Anleitung: Den Robi-Grundriss aus einer 2mm Sperrholzplatte lasern. Die Lasercut
 |    2 | Transostoreen BC337               |
 |    1 | 9V Batterieclip                   |
 |    1 | 9V Batterie                       |
+
+
+#### Schaltplan
+![image](https://github.com/frankyhub/Loetkurs/blob/master/L2-Robi-Wood/Schaltplan.png)
