@@ -27,3 +27,7 @@ Platine mit einem NE555
 |     1|CR2032                                     |
 |     1|Batteriehalter                             |
 |     1|Microschalter                              |
+
+
+#### Schaltplan
+![imahe](https://github.com/frankyhub/Loetkurs/blob/master/L7-Seegeist/Schaltplan.png)
