@@ -4,6 +4,9 @@ Anleitung: Die Widerstände und Leuchtdioden dem Bild entsprechend verlöten. Al
 Widerstandsdimensionierung: R=U/I = 9V/10mA = 900Ohm/7 = 128Ohm
 
 
+[ANleitung](https://github.com/frankyhub/Loetkurs/blob/master/L1-Widerstandsm%C3%A4nnchen/Widerstandsm%C3%A4nnchen.pdf)
+
+
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L1-Widerstandsm%C3%A4nnchen/Widerstandsm%C3%A4nnchen.png)
 
 
