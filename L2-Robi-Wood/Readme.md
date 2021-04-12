@@ -1,5 +1,5 @@
 ### Robi-Wood
-Anleitung: Den Robi-Grundriss aus einer 2mm Sperrholzplatte lasern. Die Vorlage befindet sich in der [ZIP-Datei](https://github.com/frankyhub/Loetkurs/blob/master/L2-Robi-Wood/L2-Robi-Wood.zip). Anschließend die Bauteile auf die gelaserte Sperrholzplatte bestücken, die Bauteilfüße nach dem Schaltplan umbiegen und verlöten.
+Anleitung: Den Robi-Grundriss aus einer 2mm Sperrholzplatte lasern. Die Vorlage befindet sich in der LightBurn [ZIP-Datei](https://github.com/frankyhub/Loetkurs/blob/master/L2-Robi-Wood/L2-Robi-Wood.zip). Anschließend die Bauteile auf der gelaserte Sperrholzplatte bestücken, die Bauteilfüße nach dem Schaltplan umbiegen und verlöten.
 
 
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L2-Robi-Wood/Robi-Wood.png)
