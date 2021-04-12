@@ -11,5 +11,7 @@
 
 - Lötübungen
 
+- Siehe auch: Sicherer Umgang mit dem Lötkolben [Link](https://github.com/frankyhub/Infos_Loetkolben)
+
 
 
