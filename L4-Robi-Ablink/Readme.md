@@ -1,5 +1,7 @@
 ### Robi blink
-Platine mit einer Astabilen Kippstufe. Die Impulszeiten der beiden LEDs sind unterschiedlich und können mit den beiden Widerständen 33k, 91k und den 10uF Elkos verändert werden. T1 = ln(2)xRxC 
+Platine mit einer Astabilen Kippstufe. Die Impulszeiten der beiden LEDs sind unterschiedlich und können mit den beiden Widerständen 33k, 91k und den 10uF Elkos verändert werden. 
+
+T1 = ln(2)xRxC 
 
 Tg=T1+T2 
 
