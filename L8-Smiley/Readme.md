@@ -8,7 +8,7 @@ Funktion: Die LEDs leuchten als Lauflicht gleichmäßig von der Mitte aus nach l
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L8-Smiley/pic/Klammer.png)
 
 
-
+#### Platine
 
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L8-Smiley/pic/Smiley2.png)
 
