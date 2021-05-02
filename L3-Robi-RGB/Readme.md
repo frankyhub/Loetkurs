@@ -13,4 +13,4 @@ Platine mit RGB-LEDs.
 |    2 | RGB-LED 5mm                       | 
 |    1 | Mini Schalter    	 	             | 
 |    1 | Batteriehalter CR2032        	   |
-|    1 | Batterie CR2031                   | 
+|    1 | Batterie CR2032                   | 
