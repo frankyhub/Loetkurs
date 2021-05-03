@@ -22,7 +22,7 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 #### RC-Berechnung für den Taktgeber
 
 
-[Link](http://frankyhub.de/555/htmltools/calc_ne555.html)
+[Link](http://frankyhub.de/tools/html/calc_ne555.html)
 
 
 
