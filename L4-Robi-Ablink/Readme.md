@@ -35,5 +35,5 @@ Die Blinkfrequenz beträgt ca. 1Hz.
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L4-Robi-Ablink/L4-Robi-Ablink-Schaltplan.png)
 
 #### RC-Berechnung
-[Link](http://frankyhub.de/ast/html/calc_multivibrator.htm)
+[Link](http://frankyhub.de/tools/html/calc_multivibrator.htm)
 
