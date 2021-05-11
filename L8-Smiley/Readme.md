@@ -10,7 +10,7 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 
 #### Platine
 
-![image](https://github.com/frankyhub/Loetkurs/blob/master/L8-Smiley/pic/Smiley2.png)
+![image](https://github.com/frankyhub/Loetkurs/blob/master/L8-Smiley/pic/Smiley.png)
 
 
 #### Schaltplan
