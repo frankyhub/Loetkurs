@@ -1,7 +1,7 @@
 ### Lötübung Smiley
 
 
-Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach links und rechts. Die Augen können mit einer Drahtbrücke (D8 nach F oder S) am Taktgeber angeschlossen werden oder blinken als letztes Lauflicht. An dem SMD-Pad auf der Platine kann eine Metall Büroklammer zur Befestigung der Platine an der Kleidung angelötet werden.
+Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach links und rechts. Die Blinkgeschwindigkeit wird mit einem Trimmer eingestellt. An dem SMD-Pad auf der Rückseite der Platine kann eine Metall Büroklammer zur Befestigung der Platine an der Kleidung angelötet werden. 
 
 
 #### Metall Büroklammer
