@@ -37,13 +37,13 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 |    1 | Mini Schalter    	 	             | 
 |    1 | Batteriehalter CR2032        	   |
 |    1 | Trimmer 50k                       |
-|    1 | 100R                              | 
-|    1 | 330R                              |
-|    2 | 500R                              |
+|    1 | 47k                               | 
+|    2 | 100R                              |
 |    1 | 10nF                              | 
 |    1 | 100nF                             | 
 |    1 | 10uF                              | 
 |    1 | Platine                           | 
+|    2 | CR2032                            | 
 
 
 
