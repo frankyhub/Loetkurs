@@ -1,7 +1,7 @@
 ### Lötübung Smiley
 
 
-Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach links und rechts. Die Blinkgeschwindigkeit wird mit einem Trimmer eingestellt. An dem SMD-Pad auf der Rückseite der Platine kann eine Metall Büroklammer zur Befestigung der Platine an der Kleidung angelötet werden. 
+Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach links und rechts. Die Augen blinken sehr schnell. Die Blinkgeschwindigkeit wird mit einem Trimmer eingestellt. An dem SMD-Pad auf der Rückseite der Platine kann eine Metall Büroklammer zur Befestigung der Platine an der Kleidung angelötet werden. 
 
 
 #### Metall Büroklammer
