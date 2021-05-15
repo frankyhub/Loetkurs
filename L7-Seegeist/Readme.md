@@ -30,4 +30,3 @@ Platine mit einem NE555
 
 
 #### Schaltplan
-![imahe](https://github.com/frankyhub/Loetkurs/blob/master/L7-Seegeist/Schaltplan.png)
