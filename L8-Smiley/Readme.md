@@ -16,10 +16,7 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 [Anleitung](https://github.com/frankyhub/Loetkurs/blob/master/L8-Smiley/Smiley%20Platine%20best%C3%BCcken.pdf)
 
 
-#### RC-Berechnung für den Taktgeber
-
-
-[Link](http://frankyhub.de/tools/html/calc_ne555.html)
+[RC-Berechnung für den Taktgeber](http://frankyhub.de/tools/html/calc_ne555.html)
 
 
 
