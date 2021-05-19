@@ -31,7 +31,6 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 |    1 | NE555                             | 
 |   15 | LED 5mm                           | 
 |    1 | Mini Schalter    	 	             | 
-|    1 | Batteriehalter CR2032        	   |
 |    1 | Trimmer 50k                       |
 |    1 | 47k                               | 
 |    2 | 100R                              |
@@ -41,5 +40,5 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 |    1 | Platine                           | 
 |    2 | CR2032                            | 
 |    1 | Metall-Büroklammer                | 
-
+|    2 | Blankdraht (Batteriehalter)    	   |
 
