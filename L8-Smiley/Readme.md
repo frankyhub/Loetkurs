@@ -40,6 +40,6 @@ Funktion: Die LEDs leuchten als Lauflicht von der Mitte aus gleichmäßig nach l
 |    1 | 10uF                              | 
 |    1 | Platine                           | 
 |    2 | CR2032                            | 
-
+|    1 | Metall-Büroklammer                | 
 
 
