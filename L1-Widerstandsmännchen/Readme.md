@@ -4,7 +4,7 @@ Anleitung: Die Widerstände und Leuchtdioden dem Bild entsprechend verlöten. Al
 
 
 
-[Anleitung](https://github.com/frankyhub/Loetkurs/blob/master/L1-Widerstandsm%C3%A4nnchen/Widerstandsm%C3%A4nnchen.pdf)
+[Anleitung](https://github.com/frankyhub/Loetkurs/blob/master/L1-Widerstandsm%C3%A4nnchen/Anleitung%20Widerstandsm%C3%A4nnchen.pdf)
 
 
 ![image](https://github.com/frankyhub/Loetkurs/blob/master/L1-Widerstandsm%C3%A4nnchen/Widerstandsm%C3%A4nnchen.png)
